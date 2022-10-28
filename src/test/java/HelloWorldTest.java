@@ -8,5 +8,8 @@ public class HelloWorldTest {
     public void getName() throws Exception {
         HelloWorld susan = new HelloWorld("Susan");
         assertEquals("Susan",susan.getName());
+
+        HelloWorld izzy = new HelloWorld("Izzy");
+        assertEquals("Susan",izzy.getName());
     }
 }
