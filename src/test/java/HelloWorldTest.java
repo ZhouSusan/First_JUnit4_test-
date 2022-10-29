@@ -9,7 +9,8 @@ public class HelloWorldTest {
         HelloWorld susan = new HelloWorld("Susan");
         assertEquals("Susan",susan.getName());
 
-        HelloWorld izzy = new HelloWorld("Izzy");
-        assertEquals("Susan",izzy.getName());
+        HelloWorld peter = new HelloWorld("Peter");
+        assertEquals("Peter", peter.getName());
+
     }
 }
