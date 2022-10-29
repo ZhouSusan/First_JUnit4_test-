@@ -1,1 +1,5 @@
-# First_JUnit4_test-
+#My_First_IntelliJ_IDEA_Unit_Test
+
+<hr>
+
+<p>This repo is to practice Junit testing in IntelliJ.</p>
