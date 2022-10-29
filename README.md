@@ -2,4 +2,4 @@
 
 <hr>
 
-<p>This repo is to practice Junit testing in IntelliJ.</p>
+<p>This repo is to practice Junit testing.</p>
